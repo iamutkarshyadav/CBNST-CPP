@@ -5,7 +5,7 @@ using namespace std;
 
 double function(double x)
 {
-    return x * x * x + 5 * x - 4; // Change this function as needed
+    return x * x * x + 5 * x - 4; 
 }
 
 void bisection(double a, double b, int maxIterations)
